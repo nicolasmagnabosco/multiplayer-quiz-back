@@ -1,0 +1,114 @@
+[
+  {
+    "question": "What type of language is JavaScript?",
+    "options": ["Compiled", "Interpreted", "Assembler"],
+    "answer": "Interpreted"
+  },
+  {
+    "question": "Which keyword is NOT used to declare a variable in JavaScript?",
+    "options": ["var", "let", "new"],
+    "answer": "new"
+  },
+  {
+    "question": "Which method converts a JSON string into an object?",
+    "options": ["JSON.parse()", "JSON.stringify()", "JSON.convert()"],
+    "answer": "JSON.parse()"
+  },
+  {
+    "question": "What does typeof [10,52,32] return?",
+    "options": ["object", "array", "array of numbers"],
+    "answer": "object"
+  },
+  {
+    "question": "What does fs stand for in Node?",
+    "options": ["fileSend", "fileSystem", "None of the above"],
+    "answer": "fileSystem"
+  },
+  {
+    "question": "Which JavaScript engine does Node.js use?",
+    "options": ["SpiderMonkey", "Chakra", "V8"],
+    "answer": "V8"
+  },
+  {
+    "question": "What is NaN in JavaScript?",
+    "options": [
+      "Special value",
+      "Data type",
+      "NaN does not exist in JavaScript"
+    ],
+    "answer": "Special value"
+  },
+  {
+    "question": "How do you declare an arrow function?",
+    "options": ["function => {}", "()=>({})", "()=>{}"],
+    "answer": "()=>{}"
+  },
+  {
+    "question": "Why does JavaScript use Java in its name?",
+    "options": [
+      "Marketing",
+      "JS is based on Java",
+      "JS is a modern version of Java"
+    ],
+    "answer": "Marketing"
+  },
+  {
+    "question": "Which operator is used for strict equality?",
+    "options": ["==", "===", "="],
+    "answer": "==="
+  },
+  {
+    "question": "Which command is used to initialize a Node.js project?",
+    "options": ["npm install", "node init", "npm init"],
+    "answer": "npm init"
+  },
+  {
+    "question": "What is the typical file extension for Node.js modules?",
+    "options": [".node", ".js", ".njs"],
+    "answer": ".js"
+  },
+  {
+    "question": "Which is a native Node.js module?",
+    "options": ["axios", "fs", "express"],
+    "answer": "fs"
+  },
+  {
+    "question": "How do you import a module in CommonJS?",
+    "options": ["import fs from 'fs'", "require('fs')", "request 'fs'"],
+    "answer": "require('fs')"
+  },
+  {
+    "question": "Which method is used to read a file synchronously in Node.js?",
+    "options": ["fs.readFile", "fs.readFileSync", "fs.loadFile"],
+    "answer": "fs.readFileSync"
+  },
+  {
+    "question": "Which structure allows handling errors in JavaScript?",
+    "options": ["try/catch", "if/else", "loop/exit"],
+    "answer": "try/catch"
+  },
+  {
+    "question": "What is the result of '2' + 2?",
+    "options": ["4", "22", "NaN"],
+    "answer": "22"
+  },
+  {
+    "question": "Which keyword stops a loop?",
+    "options": ["stop", "exit", "break"],
+    "answer": "break"
+  },
+  {
+    "question": "What does setTimeout do in JavaScript?",
+    "options": [
+      "Executes a function only when main memory is free",
+      "Pauses execution",
+      "Executes a function after a delay"
+    ],
+    "answer": "Executes a function after a delay"
+  },
+  {
+    "question": "Which property of the 'process' object gives the current directory?",
+    "options": ["__dirname", "cwd()", "process.env.currentDir"],
+    "answer": "cwd()"
+  }
+]
