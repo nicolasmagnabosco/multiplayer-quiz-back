@@ -16,7 +16,7 @@ Change the name of the ".env.example" file to ".env" and add your variables foll
 
 3.  **Run Development Server:**
 
-npm run dev
+node index
 
 ## 🚀 Setup Instructions
 
